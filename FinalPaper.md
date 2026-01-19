@@ -49,9 +49,11 @@ In writing your final project, it might behoove you to keep the following in min
   - You can find a rubric for the <a href="https://docs.google.com/document/d/1aVjxPIJk0M_yjfpgJ253R7nMTLj4SOLhA38R2bmduS4/edit?usp=sharing" target="_blank">final here</a>
 
 # Assignments Related to Final Project
+<a name="initial-thoughts"></a>
 ## Initial Thoughts on Historical Question/Problem<br>
 Please submit a 1-2 paragraph description of a general idea for your research project, and some thoughts as to what types of primary sources that you might be interested in employing.  Then we will schedule individual meetings to discuss the possibilities of your general topic.  (Due {{ site.data.due_dates.initial_thoughts_topic }})
 
+<a name="project-proposal"></a>
 ## Project Proposal (5%)<br>
 Please submit a detailed description of your evolving Project that describes your historical question(s), historiographical question(s), and any questions you might have about your project.  Also include an initial bibliography of at least ten (10) secondary sources, and a description/discussion of the primary sources that you plan/hope to employ.  You should not have arguments yet (tentative hypotheses at best), the arguments should come from the primary sources!<br>
 
@@ -60,6 +62,7 @@ Project Proposal graded on a full credit (+), ¾ credit (√+), half credit (√
 *Complete Draft* Due: {{ site.data.due_dates.project_proposal_draft }}
 *Final Draft* Due: {{ site.data.due_dates.project_proposal_final }}
 
+<a name="primary-source-analysis"></a>
 ## Primary Source Analysis x2 (5% each)<br>
 Open your paper with a two to three paragraph description of your project.  That description should represent an evolution of what you wrote in your Proposal, and should provide a foundation for your explication of your primary source.<br>
 You are to identify and critically analyze one of the more significant primary documents for your research paper. If your source base relies on a vareity of smaller sources (say, newspaper articles), you should analyze multiple sources.<br>
@@ -79,6 +82,7 @@ Due: Complete Draft for Peer Review: {{ site.data.due_dates.source_analysis_1_dr
 ### Primary Source Analysis #2 
 Due: Complete Draft for Peer Review: {{ site.data.due_dates.source_analysis_2_draft }}; <br> Final Draft: {{ site.data.due_dates.source_analysis_2_final }} (via Canvas).<br>  If reasonable, please deliver a copy of your primary source, or the section of the source, that you evaluate along with your paper. 
 
+<a name="annotated-bibliography"></a>
 **Annotated Bibliography and Outline of Historiography (5%)**<br>
 
 ## Annotated Bibliography<br>
@@ -96,6 +100,7 @@ Include separate sections for primary and secondary sources.
 
 **DUE** {{ site.data.due_dates.annotated_bibliography }}
 
+<a name="historiographical-essay"></a>
 ## Historiographical Essay (7.5%)<br>
 Write an approximately 750-word, double-spaced, 12 pt font, historiographical essay, with proper footnotes, on your research project. <br> 
 
@@ -132,6 +137,7 @@ See instructions above, follow same format as Primary Source Analysis 1.
 The professor must approve the primary source(s) you plan to use in advance.  Unless explicitly given permission to do otherwise, you should write on a different source than the one you analyzed in your first primary source analysis.
 
 
+<a name="full-draft"></a>
 ## Full Draft -  This must be a full, polished draft of your final paper.
 
 On {{ site.data.due_dates.complete_draft }}, class will meet to conduct peer-reviews of complete drafts. You will be asked to read a couple of pages out loud to the author (so they hear their own prose and writing style) and then to read and comment on the entirety of the draft during the class period.  I will provide a general worksheet to assist you in this process during class. <br>
@@ -142,6 +148,7 @@ Drafts graded on a full credit (+), ¾ credit (√+), half credit (√-) or no c
 
 To receive full credit you must have a full draft, with a well-identified historical question, an arguable and manageable hypothesis, which begins to grapple with the pertinent primary and secondary materials. 
 
+<a name="presentations"></a>
 ***Presentations (7.5%)***
 Per departmental policy, you will be required to provide a 10-minute presentation (with additional 5 minutes for Q&A) on your topic on {{ site.data.due_dates.presentations }}.  You should be able to address your primary questions, the primary sources you've employed to answer those questions, and your principle conclusions. <br>
 
@@ -160,6 +167,7 @@ The strength of your own presentation and your participation, in terms of asking
 *- Hint #2* – Listen carefully to the questions that your peers and members of the department ask you.  Those questions can often serve as important indicators of potential revisions on the paper you could make before submitting the final version.
 
 
+<a name="primary-sources-list"></a>
 ## Non-exhaustive list of published primary sources that might serve as starting points for senior research***
 
 - Thomas Gage, *Travels in the New World*<br>
