@@ -12,6 +12,7 @@ Intro
 - Bernard Bailyn "The Contours of Atlantic History" in Atlantic History: Concepts and Contours (Cambridge, MA: Harvard Univ. Press, 2005), 59-111 + notes.
 - Alison Games, "Atlantic History: Definitions, Challenges, and Opportunities," American Historical Review 111:3 (2006): 741-57.
 - Eliga H. Gould, "Entangled Histories, Entangled Worlds: The English-Speaking Atlantic as a Spanish Periphery," American Historical Review 112:3 (2007): 764-86.
+- David Aritage, "The Varieties of Atlantic History," in *Major Problems in Atlantic World History,* Alison Games and Adam Rothman, eds., (Houghton Mifflin Co, 2008), 16-22.
 
 **Due: Essay – What is Atlantic World History?**
 
@@ -21,15 +22,13 @@ Intro
 
 - Jennifer Morgan, "'Some Could Suckle over Their Shoulder': Male Travelers, Female Bodies, and the Gendering of Racial Ideology, 1550-1770," The William and Mary Quarterly, 3rd Series 54:1 (1997): 167-92.
 - Michael Householder, "Eden's Translations: Women and Temptation in Early America," Huntington Library Quarterly, Vol. 70, No. 1 (March 2007), 11-36.
-- Amerigo Vespucci, "Mundus Novus," in Letters from a New World: Amerigo Vespucci's Discovery of America, ed. Luciano Formisano, trans. David Jacobsen (New York: Marsilio, 1992), 45-56.
+- April Lee Hatfield, "A 'very wary people in the bargaining' or 'very good merchandise': English Traders' Views of Free and Enslaved Africans, 1550-1650," Slavery and Abolition, Vol. 25, No 3 (2004): 1-18.
 
 ## Jan 29
 
-**Primary Sources: African Slavery in the Atlantic – The Stono Rebellion**
-
-- Mark Smith, ed., Stono: Documenting and Interpreting a Southern Slave Revolt (Columbia, SC: Univ. of South Carolina Press, 2005), 3-6, 13-17, 20-34 & 43-53,
-
-Stop, and reflect on what you would make of rebellion based on the primary sources.  Take some notes on the following questions: How would you characterize it?  What do you wish you knew?  How would you begin to write a history of the rebellion based on the sources? How might you make it an Atlantic World history of the rebellion?
+- Marcy Norton, "Tasting Empire: Chocolate and the European Internationalization of Mesoamerican Aesthetics," American Historical Review 111:3 (2006): 660-92.
+- Linda Wimmer, "'To Encourage a Trade with the Indians:' Brazilian Tobacco and Cross-Cultural Relations in the Hudson's Bay Company Fur Trade, 1690-1750," Working Paper presented at the 1998 meeting of the Atlantic History Seminar, "Cultural Encounters in Atlantic Societies, 1500-1800." 1-31.
+- David Hancock, "Commerce and Conversation in the Eighteenth-century Atlantic: The Invention of Madeira Wine," The Journal of Interdisciplinary History 29:2 (1998): 197-219.
 
 **IN-CLASS EXERCISE on explicating primary sources.**
 
@@ -49,16 +48,13 @@ Stop, and reflect on what you would make of rebellion based on the primary sourc
 
 **Exchange and Consumption**
 
-- Marcy Norton, "Tasting Empire: Chocolate and the European Internationalization of Mesoamerican Aesthetics," American Historical Review 111:3 (2006): 660-92.
-- Linda Wimmer, "'To Encourage a Trade with the Indians:' Brazilian Tobacco and Cross-Cultural Relations in the Hudson's Bay Company Fur Trade, 1690-1750," Working Paper presented at the 1998 meeting of the Atlantic History Seminar, "Cultural Encounters in Atlantic Societies, 1500-1800." 1-31.
-- David Hancock, "Commerce and Conversation in the Eighteenth-century Atlantic: The Invention of Madeira Wine," The Journal of Interdisciplinary History 29:2 (1998): 197-219.
+
 
 ## Feb 10
 
 **Atlantic Africa**
 
 - Randy Sparks, The Two Princes of Calabar: An Eighteenth-Century Odyssey (Cambridge, MA: Harvard University Press, 2004): 10-69.
-- April Lee Hatfield, "A 'very wary people in the bargaining' or 'very good merchandise': English Traders' Views of Free and Enslaved Africans, 1550-1650," Slavery and Abolition, Vol. 25, No 3 (2004): 1-18.
 - James Sweet, "Mistaken Identities: Olaudah Equiano, Domingos Alvares, and the Methodological Challenges of Studying the African Diaspora," American Historical Review 114:2 (2009) 279-306.
 
 ## Feb 12

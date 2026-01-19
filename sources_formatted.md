@@ -1,0 +1,41 @@
+***List of published primary sources that might serve as starting points for senior research***
+
+- Thomas Gage, *Travels in the New World*<br>
+- Mawṣilī, Ilyās, *An Arab's journey to colonial Spanish America: the travels of Elias al-Mûsili in the seventeenth century*, trans. and edited by Caesar E. Farah<br>
+- Robin Law and Paul E. Lovejoy, eds., *The Biography of Mahommah Gardo Baquaqua* (2001)<br>
+- *The Interesting Narrative of the Life of Olaudah Equiano*, edited by Robert J. Allison (Boston, 1995)<br>
+- A.O Exquemelin, (aka John Exquemelin) *The history of the buccaneers of America; containing detailed accounts of those bold and daring freebooters; chiefly along the Spanish Main, in the West Indies, and in the great South sea, succeeding the civil wars in England*. Includes accounts by Exquemelin, Basil Ringrose, Ravenau de Lussan and Montauban<br>
+- Johnson, Charles (or Daniel Dafoe). *A General History of the Robberies and Murders of the Most Notorious Pyrates* (1727; reprint, 1972)<br>
+- Robert Louis Stevenson, *Treasure Island*<br>
+- Daniel Defoe, *Captain Singleton*<br>
+- Daniel J. Vitkus, ed. *Piracy, slavery, and redemption: Barbary captivity narratives from early modern England*<br>
+- Richard Ligon, *A True and Exact History of the Island of Barbadoes*<br>
+- Miguel Leon-Portilla, ed. and trans., *The Broken Spears: The Aztec Account of the Conquest of Mexico* (Boston: Beacon Press, 1962, 1990)<br>
+- Bernal Diaz, *The Conquest of New Spain*<br>
+- James Lockhart, ed. and trans., *We People Here: Nahuatl Accounts of the Conquest of Mexico*<br>
+- Hernán Cortés, *Letters from Mexico*, trans. and ed. by Anthony Pagden<br>
+- Álvar Núñez Cabeza de Vaca, *The Narrative of Cabeza de Vaca*, trans. and ed. by Rolena Adorno and Patrick Charles Pautz (Lincoln: Univ. of Nebraska Press, 2003)<br>
+- Catalina de Erauso, *Lieutenant Nun: Memoir of a Basque Transvestite in the New World*, Michele and Gabriel Stepto, eds., (Boston: Beacon Press, 1996)<br>
+- Amerigo Vespucci, *Letters from a New World: Amerigo Vespucci's Discovery of America*, Luciano Formisano, ed, trans.<br>
+- Jean de Léry, *History of a Voyage to the Land of Brazil*, Janet Whatley, trans., (Berkeley: Univ. of California Press, 1992)<br>
+- *The Jesuit Relations and Allied Documents*. Ed. Reuben Gold Thwaites. 73 vols. (New York: Vanguard Press, 1954)<br>
+- Marie de l'Incarnation, *Word from New France: The Selected Letters of Marie de l'Incarnation*, ed. and trans. by Joyce Marshall (Toronto: Oxford University Press, 1967)<br>
+- Mary Rowlandson, *The Sovereignty and Goodness of God*<br>
+- John Smith, *Captain John Smith: A Select Edition of His Writings*, Karen Ordahl Kupperman, ed.<br>
+- Gottlieb Mittelberger, *Journey to Pennsylvania*. Edited and translated by Oscar Handlin and John Clive<br>
+- Richard Hakluyt, *The Principall Navigations*<br>
+- George Peckham<br>
+- Thomas Harriot<br>
+- Sir Walter Raleigh<br>
+- Gordon Sayre, *American Captivity Narratives*<br>
+- Pater C. Mancall, *Travel narratives from the age of discovery: an anthology*<br>
+- Bartolomé de Las Casas, Various writings<br>
+- Peter Martyr, *The Decades of the Newe Worlde*<br>
+- George Best, *A True Discourse of the three Voyages…of Martin Frobisher*<br>
+- Arthur Barlowe, *The first voyage made to the coasts of America* (description of Virginia)<br>
+- William Strachey, *A True Reportory of the Wreck* (ship wrecked in Bermuda in 1609, wrote one of few narratives describing Powhatan society)<br>
+- John Winthrop, "Reasons to be Considered for Justifying the Undertakers of the Intended Plantation in New England"<br>
+- John Cotton, *God's Promise to His Plantation* (among other writings)<br>
+- Thomas Morton, *New English Canaan*<br>
+- Morgan Godwyn, *The Negro and Indian's Advocate, Suing for Their Admission into the Church* (1680) & other writings<br>
+- Hans Staden, *Hans Staden's Trye History*
