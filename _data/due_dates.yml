@@ -1,0 +1,33 @@
+# Course Due Dates - Spring 2026
+# Update dates here and they will automatically update across all files
+# To use in markdown files, copy the code shown in the comment
+
+# Initial Essays
+essay_what_is_atlantic_history: "Thurs, Jan 22"  # {{ site.data.due_dates.essay_what_is_atlantic_history }}
+essay_revised: "Tues, Feb 3"  # {{ site.data.due_dates.essay_revised }}
+initial_thoughts_topic: "Mon, Feb 2 at 11:59pm"  # {{ site.data.due_dates.initial_thoughts_topic }}
+
+# Project Proposal
+project_proposal_draft: "Tues, Feb 17"  # {{ site.data.due_dates.project_proposal_draft }}
+project_proposal_final: "Tues, Feb 24"  # {{ site.data.due_dates.project_proposal_final }}
+
+# Primary Source Analysis #1
+source_analysis_1_draft: "Tues, March 3"  # {{ site.data.due_dates.source_analysis_1_draft }}
+source_analysis_1_final: "Thurs, March 5"  # {{ site.data.due_dates.source_analysis_1_final }}
+
+# Annotated Bibliography & Historiography
+annotated_bibliography: "Tues, March 10"  # {{ site.data.due_dates.annotated_bibliography }}
+
+# Historiographical Essay
+historiography_draft: "Thurs, March 26"  # {{ site.data.due_dates.historiography_draft }}
+historiography_final: "Tues, March 31"  # {{ site.data.due_dates.historiography_final }}
+
+# Primary Source Analysis #2
+source_analysis_2_draft: "Tues, April 7"  # {{ site.data.due_dates.source_analysis_2_draft }}
+source_analysis_2_final: "Thurs, April 9"  # {{ site.data.due_dates.source_analysis_2_final }}
+
+# Final Paper
+complete_draft: "Tues, April 21"  # {{ site.data.due_dates.complete_draft }}
+revision_plan: "Before individual meetings (April 23-28)"  # {{ site.data.due_dates.revision_plan }}
+presentations: "Thurs, April 30 (10am-12noon)"  # {{ site.data.due_dates.presentations }}
+final_paper: "Wed, May 6 at 11am"  # {{ site.data.due_dates.final_paper }}

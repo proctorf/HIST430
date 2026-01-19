@@ -14,7 +14,7 @@ Intro
 - Eliga H. Gould, <a href="" target="_blank">"Entangled Histories, Entangled Worlds: The English-Speaking Atlantic as a Spanish Periphery,"</a> *American Historical Review* 112:3 (2007): 764-86.
 - David Aritage, <a href="" target="_blank">"The Varieties of Atlantic History,"</a> in *Major Problems in Atlantic World History,* Alison Games and Adam Rothman, eds., (Houghton Mifflin Co, 2008), 16-22.
 
-**Due: Essay – What is Atlantic World History?**
+**Due {{ site.data.due_dates.essay_what_is_atlantic_history }}: Essay – What is Atlantic World History?**
 
 ## Tues, Jan 27
 
@@ -36,9 +36,9 @@ Intro
 
 ## Tues, Feb 3
 
-**Due – Revised Essay on "What is Atlantic World History"**
+**Due {{ site.data.due_dates.essay_revised }}– Revised Essay on "What is Atlantic World History"**
 
-**Initial Thoughts on Topic (Due Monday Feb 2 at 11:59pm)**
+**Due - Initial Thoughts on Topic (Due {{ site.data.due_dates.initial_thoughts_topic }})**
 
 *Individual Meetings (Feb 3-4 to discuss Initial Ideas)*
 
@@ -67,7 +67,7 @@ TOPIC TBD (Atlatnic Slavery, Disease and Healing, Changing Conceptions of Native
 
 ## Tues, Feb 17
 
-**Due: Complete Draft of Project Proposal**
+**Due: {{ site.data.due_dates.project_proposal_draft }} - Complete Draft of Project Proposal**
 
 ## Thurs, Feb 19
 
@@ -77,7 +77,7 @@ In-Class Workday
 
 In-Class Workday
 
-**Due: Project Proposal (via Canvas)**
+**Due {{ site.data.due_dates.project_proposal_final }}: Project Proposal (via Canvas)**
 
 ## Thurs, Feb 26
 
@@ -99,7 +99,7 @@ In-Class Workday
 
 In-Class Workday
 
-**Due: Annotated Bibliography and Historiographical Outline (via Canvas)**
+**Due: {{ site.data.due_dates.annotated_bibliography }}  Annotated Bibliography and Historiographical Outline (via Canvas)**
 
 ## Thurs, March 12
 
@@ -115,33 +115,33 @@ In-Class Workday
 
 In-Class Workday
 
+**Due: {{ site.data.due_dates.historiography_draft }} - Complete Draft of Historiographical Essay**
+
 ## Thurs, March 26
 
 Peer Review & In-Class Workday
 
-**Due: Complete Draft of Historiographical Essay**
+**Due: {{ site.data.due_dates.historiography_final }} - Revised, Final Draft of Historiographical Essay**
 
 ## Tues, March 31
 
 In-Class Workday
 
-**Due: Revised, Final Draft of Historiographical Essay (via Canvas)**
-
 ## Thurs, April 2
 
 In-Class Workday
+
+**Due: {{ site.data.due_dates.source_analysis_2_draft }} - Complete Draft of Primary Analysis #2**
 
 ## Tues, April 7
 
 Peer Review & In-Class Workday
 
-**Due: Complete Draft of Primary Analysis #2**
+**Due: {{ site.data.due_dates.source_analysis_2_final }} - Revised, Final Draft of Primary Analysis #2**
 
 ## Thurs, April 9
 
 In-Class Workday
-
-**Due: Revised, Final Draft of Primary Analysis #2 (via Canvas)**
 
 ## Tues, April 14
 
@@ -149,33 +149,31 @@ In-Class Workday
 
 ## Thurs, April 16
 
-In-Class Workday
+Peer Reviews
+
+**Due:{{ site.data.due_dates.complete_draft }} - Complete Draft (2 copies in-class, upload one copy to Canvas)**
 
 ## Tues, April 21
 
-Peer Reviews
+In-Class Workday
 
-**Due: Complete Draft (2 copies in-class, upload one copy to Canvas)**
+**DUE: {{ site.data.due_dates.revision_plan }} - Revision Plan**
 
 ## Thurs, April 23
 
-In-Class Workday – Model Presentation by Prof Proctor
-
-*Individual Meetings to discuss Rough Drafts and Revision Plans (due before meeting via Canvas)*
+*Individual Meetings to discuss Rough Drafts and Revision Plans (due before meeting) cont.*
 
 ## Tues, April 28
 
-In-Class Workday
+In-Class Workday – Model Presentation by Prof Proctor
 
-*Individual Meetings to discuss Rough Drafts and Revision Plans (due before meeting) cont.*
+## Thurs, April 30
 
-## Sun, May 3
-
-Presentations (Please Plan to be able to be present from 3-5:30pm this day)
+Presentations (Please Plan to be able to be present from 10am-12noon this day)
 
 ---
 
-**Final Papers Due: Wed, May 6, at 11am (via Canvas)**
+**Final Papers Due: {{ site.data.due_dates.final_paper }} (via Canvas)**
 
 
 
