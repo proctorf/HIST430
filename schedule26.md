@@ -1,3 +1,7 @@
+---
+title: Schedule for Senior Seminar
+layout: default
+---
 
 # COURSE SCHEDULE (Subject to Change)
 

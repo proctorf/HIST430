@@ -19,15 +19,15 @@ source_analysis_1_final: "Thurs, March 5"  # {{ site.data.due_dates.source_analy
 annotated_bibliography: "Tues, March 10"  # {{ site.data.due_dates.annotated_bibliography }}
 
 # Historiographical Essay
-historiography_draft: "Thurs, March 26"  # {{ site.data.due_dates.historiography_draft }}
-historiography_final: "Tues, March 31"  # {{ site.data.due_dates.historiography_final }}
+historiography_draft: "Tues, March 24"  # {{ site.data.due_dates.historiography_draft }}
+historiography_final: "Thurs, March 26"  # {{ site.data.due_dates.historiography_final }}
 
 # Primary Source Analysis #2
-source_analysis_2_draft: "Tues, April 7"  # {{ site.data.due_dates.source_analysis_2_draft }}
-source_analysis_2_final: "Thurs, April 9"  # {{ site.data.due_dates.source_analysis_2_final }}
+source_analysis_2_draft: "Thurs, April 2"  # {{ site.data.due_dates.source_analysis_2_draft }}
+source_analysis_2_final: "Tues, April 7"  # {{ site.data.due_dates.source_analysis_2_final }}
 
 # Final Paper
-complete_draft: "Tues, April 21"  # {{ site.data.due_dates.complete_draft }}
-revision_plan: "Before individual meetings (April 23-28)"  # {{ site.data.due_dates.revision_plan }}
+complete_draft: "Thurs, April 16"  # {{ site.data.due_dates.complete_draft }}
+revision_plan: "Before individual meetings (Wednesday April 22 @ 11:59pm)"  # {{ site.data.due_dates.revision_plan }}
 presentations: "Thurs, April 30 (10am-12noon)"  # {{ site.data.due_dates.presentations }}
 final_paper: "Wed, May 6 at 11am"  # {{ site.data.due_dates.final_paper }}
