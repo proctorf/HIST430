@@ -1,0 +1,28 @@
+# Jekyll Configuration for GitHub Pages
+
+# Site settings
+title: HIST 430 - Senior Seminar
+description: Pirates, Slaves, and Revolutionaries - Research in the Atlantic World
+author: Professor Frank "Trey" Proctor III
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Include files and folders
+include:
+  - _data
+  - assignments
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - WORKFLOW.md
+  - generate_syllabus_pdf.sh
+  - update_finalpaper.sh
+  - HIST430_Complete_Syllabus.md
+  - HIST430_Complete_Syllabus.pdf
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
