@@ -1,6 +1,7 @@
 ---
 title: Primary Source Analysis
 layout: default
+exclude_from_nav: true
 ---
 
 # Primary Source Analysis (5% each)

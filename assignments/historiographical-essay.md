@@ -1,6 +1,7 @@
 ---
 title: Historiographical Essay
 layout: default
+exclude_from_nav: true
 ---
 
 # Historiographical Essay (7.5%)

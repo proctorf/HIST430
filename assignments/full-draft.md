@@ -1,6 +1,7 @@
 ---
 title: Full Draft
 layout: default
+exclude_from_nav: true
 ---
 
 # Full Draft - Research Paper (5%)

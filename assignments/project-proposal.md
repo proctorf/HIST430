@@ -1,6 +1,7 @@
 ---
 title: Project Proposal
 layout: default
+exclude_from_nav: true
 ---
 
 # Project Proposal (5%)

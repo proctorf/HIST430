@@ -1,5 +1,5 @@
 ---
-title: Senior Seminar
+title: Course Description and Policies
 layout: default
 ---
 History 430-01 – Senior Seminar - “Pirates, Slaves, and Revolutionaries: Research in the Atlantic World”

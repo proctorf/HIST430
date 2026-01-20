@@ -1,6 +1,7 @@
 ---
 title: Final Presentation
 layout: default
+exclude_from_nav: true
 ---
 
 # Presentations (7.5%)

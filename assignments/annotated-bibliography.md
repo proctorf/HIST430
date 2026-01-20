@@ -1,6 +1,7 @@
 ---
 title: Annotated Bibliography
 layout: default
+exclude_from_nav: true
 ---
 
 # Annotated Bibliography and Outline of Historiography (5%)

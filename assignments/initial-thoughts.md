@@ -1,6 +1,7 @@
 ---
 title: Initial Thoughts on Historical Question/Problem
 layout: default
+exclude_from_nav: true
 ---
 
 # Initial Thoughts on Historical Question/Problem

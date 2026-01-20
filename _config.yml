@@ -9,6 +9,12 @@ author: Professor Frank "Trey" Proctor III
 markdown: kramdown
 theme: minima
 
+# Header pages (controls navigation at top)
+header_pages:
+  - index.md
+  - schedule26.md
+  - FinalPaper.md
+
 # Include files and folders
 include:
   - _data
