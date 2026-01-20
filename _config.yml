@@ -5,6 +5,9 @@ title: HIST 430 - Senior Seminar
 description: Pirates, Slaves, and Revolutionaries - Research in the Atlantic World
 author: Professor Frank "Trey" Proctor III
 
+# Disable automatic excerpts in footer
+show_excerpts: false
+
 # Build settings
 markdown: kramdown
 theme: minima
