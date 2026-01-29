@@ -50,7 +50,7 @@ Intro
 
 **Atlantic Africa**
 
-- Randy Sparks, *The Two Princes of Calabar: An Eighteenth-Century Odyssey* (Cambridge, MA: Harvard University Press, 2004): 10-69.
+- Randy Sparks, <a href="https://proctorf.github.io/HIST161/Two_Princes.pdf" target="_blank">*The Two Princes of Calabar: An Eighteenth-Century Odyssey* </a> (Cambridge, MA: Harvard University Press, 2004): 10-69.
 - James Sweet, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_webofscience_primary_000265230600001" target="_blank">"Mistaken Identities? Olaudah Equiano, Domingos Alvares, and the Methodological Challenges of Studying the African Diaspora,"</a> *American Historical Review* 114:2 (2009) 279-306.
 
 
