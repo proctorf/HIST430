@@ -70,9 +70,19 @@ TOPIC TBD (Atlatnic Slavery, Disease and Healing, Changing Conceptions of Native
 
 ## Tues, Feb 17
 
-**Due: {{ site.data.due_dates.project_proposal_draft }} - Complete Draft of Project Proposal**
+- Danielle Terrazas Williams, <a href="https://www-jstor-org.denison.idm.oclc.org/stable/j.ctv2c3k21f.7" target="_blank">"Owning Slaves"</a> in *The Capital of Free Women: Race, Legitimacy, and Liberty in Colonial Mexico* (Yale Univ Press, 2022), 85-118 + <a href="https://www-jstor-org.denison.idm.oclc.org/stable/j.ctv2c3k21f.12" target="_blank">notes</a>
+- Cécile Fromont, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_crossref_citationtrail_10_1080_10609164_2013_808466" target="_blank">"Dancing for the King of Congo from Early Modern Central Africa to Slavery-Era Brazil,"</a> *Colonial Latin American Review* 22:2 (2013):184-208.
+- Timothy Shannon, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_journals_219807913" target="_blank">"Dressing for Success on the Mohawk Frontier: Hendrick, William Johnson, and the Indian Fashion,"</a> *William and Mary Quarteryly* 3rd Series, 53 (1996): 13-42.
+
+
+
+<a href="https://www-jstor-org.denison.idm.oclc.org/stable/j.ctv2c3k21f.7" target="_blank">
+
+  <!-- **Due: {{ site.data.due_dates.project_proposal_draft }} - Complete Draft of Project Proposal** -->
 
 ## Thurs, Feb 19
+
+**Due: Complete Draft of Project Proposal** (for Peer Review)
 
 In-Class Workday
 
