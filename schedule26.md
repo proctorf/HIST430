@@ -33,7 +33,7 @@ Intro
 **Exchange and Consumption**
 
 - Marcy Norton, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_journals_199841909" target="_blank">"Tasting Empire: Chocolate and the European Internationalization of Mesoamerican Aesthetics,"</a> *American Historical Review* 111:3 (2006): 660-92.
-- Linda Wimmer, <a href="https://drive.google.com/file/d/1pt648HCYjcLCXvn0mRi35Lu8fbpN6Fi5/view?usp=drive_link" target="_blank">"'To Encourage a Trade with the Indians:' Brazilian Tobacco and Cross-Cultural Relations in the Hudson's Bay Company Fur Trade, 1690-1750,"</a> Working Paper presented at the 1998 meeting of the Atlantic History Seminar, <a href="" target="_blank">"Cultural Encounters in Atlantic Societies, 1500-1800."</a> 1-31.
+- <del>Linda Wimmer, <a href="https://drive.google.com/file/d/1pt648HCYjcLCXvn0mRi35Lu8fbpN6Fi5/view?usp=drive_link" target="_blank">"'To Encourage a Trade with the Indians:' Brazilian Tobacco and Cross-Cultural Relations in the Hudson's Bay Company Fur Trade, 1690-1750,"</a> Working Paper presented at the 1998 meeting of the Atlantic History Seminar, <a href="" target="_blank">"Cultural Encounters in Atlantic Societies, 1500-1800."</a> 1-31.</del>
 - David Hancock, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_mit_journals_10_1162_002219598551670" target="_blank">"Commerce and Conversation in the Eighteenth-century Atlantic: The Invention of Madeira Wine,"</a> *The Journal of Interdisciplinary History* 29:2 (1998): 197-219.
 - Londa Scheibinger, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_70186711" target="_blank">“Agnotology and Exotic Abortifacients: The Cultural Production of Ignorance in the Eighteenth-Century Atlantic,”</a> *Proceedings of the American Philosophical Society*, 149:3 (2005), 316-343. 
 
@@ -50,7 +50,7 @@ Intro
 
 **Atlantic Africa**
 
-- Randy Sparks, *The Two Princes of Calabar: An Eighteenth-Century Odyssey* (Cambridge, MA: Harvard University Press, 2004): 10-69.
+- Randy Sparks, <a href="https://proctorf.github.io/HIST161/Two_Princes.pdf" target="_blank">*The Two Princes of Calabar: An Eighteenth-Century Odyssey* </a> (Cambridge, MA: Harvard University Press, 2004): 10-69.
 - James Sweet, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_webofscience_primary_000265230600001" target="_blank">"Mistaken Identities? Olaudah Equiano, Domingos Alvares, and the Methodological Challenges of Studying the African Diaspora,"</a> *American Historical Review* 114:2 (2009) 279-306.
 
 
@@ -70,9 +70,19 @@ TOPIC TBD (Atlatnic Slavery, Disease and Healing, Changing Conceptions of Native
 
 ## Tues, Feb 17
 
-**Due: {{ site.data.due_dates.project_proposal_draft }} - Complete Draft of Project Proposal**
+- Danielle Terrazas Williams, <a href="https://www-jstor-org.denison.idm.oclc.org/stable/j.ctv2c3k21f.7" target="_blank">"Owning Slaves"</a> in *The Capital of Free Women: Race, Legitimacy, and Liberty in Colonial Mexico* (Yale Univ Press, 2022), 85-118 + <a href="https://www-jstor-org.denison.idm.oclc.org/stable/j.ctv2c3k21f.12" target="_blank">notes</a>
+- Cécile Fromont, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_crossref_citationtrail_10_1080_10609164_2013_808466" target="_blank">"Dancing for the King of Congo from Early Modern Central Africa to Slavery-Era Brazil,"</a> *Colonial Latin American Review* 22:2 (2013):184-208.
+- Timothy Shannon, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_journals_219807913" target="_blank">"Dressing for Success on the Mohawk Frontier: Hendrick, William Johnson, and the Indian Fashion,"</a> *William and Mary Quarteryly* 3rd Series, 53 (1996): 13-42.
+
+
+
+<a href="https://www-jstor-org.denison.idm.oclc.org/stable/j.ctv2c3k21f.7" target="_blank">
+
+  <!-- **Due: {{ site.data.due_dates.project_proposal_draft }} - Complete Draft of Project Proposal** -->
 
 ## Thurs, Feb 19
+
+**Due: Complete Draft of Project Proposal** (for Peer Review)
 
 In-Class Workday
 
