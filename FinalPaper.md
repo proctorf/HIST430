@@ -128,8 +128,6 @@ The historiographical essay should be a good tool to assist you in writing your 
 
 In addition, you are required to append the historiographical essay to the final draft of your paper as an appendix.  Final papers that do not have a historiographical essay attached will be treated as incomplete.
 
-Due: Complete Draft for Peer Review, Oct 31st;  Final Draft, Nov 2nd via Canvas.
-
 ## Primary Source Analysis #2 (5%)<br>
 
 See instructions above, follow same format as Primary Source Analysis 1.
