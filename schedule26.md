@@ -162,23 +162,23 @@ In-Class Workday
 
 ## Thurs, April 16
 
+In-Class Workday <!-- I changed the dates around here in order to give studnets a little more time to work on full drafts-->
+
+## Tues, April 21  
+
 Peer Reviews
 
-**Due:{{ site.data.due_dates.complete_draft }} - Complete Draft (2 copies in-class, upload one copy to Canvas)**
-
-## Tues, April 21
-
-In-Class Workday
-
-**DUE: {{ site.data.due_dates.revision_plan }} - Revision Plan**
+**Due:{{ site.data.due_dates.complete_draft }} - Complete Draft (print 2 copies for in-class peer review, upload one copy to Canvas)**
 
 ## Thurs, April 23
 
-*Individual Meetings to discuss Rough Drafts and Revision Plans (due before meeting) cont.*
+In-Class Workday – Model Presentation by Prof Proctor
 
 ## Tues, April 28
 
-In-Class Workday – Model Presentation by Prof Proctor
+**DUE: {{ site.data.due_dates.revision_plan }} - Revision Plan**
+
+*Individual Meetings to discuss Rough Drafts and Revision Plans (due before meeting) cont.*
 
 ## Thurs, April 30
 
